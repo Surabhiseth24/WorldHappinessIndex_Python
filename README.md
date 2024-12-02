@@ -14,3 +14,9 @@ The happiness scores and rankings use data from the Gallup World Poll. The score
 * Tableau for story board visualization
 
 ### Key Questions
+* Key factors influencing the Happiness index of World’s Happiest countries. 
+* How does the scores map across categories for Top 25 countries
+* Exploring outliers which have high scores in certain areas while they severely lag in others.
+* Developed nations vs developing nations in terms of Happiness ranks
+
+
