@@ -19,4 +19,5 @@ The happiness scores and rankings use data from the Gallup World Poll. The score
 * Exploring outliers which have high scores in certain areas while they severely lag in others.
 * Developed nations vs developing nations in terms of Happiness ranks
 
+## Useful links:  [Tableau Public Story Board ](https://public.tableau.com/app/profile/surabhi.seth/viz/dashboardhappiness_17327954938940/Story2?publish=yes)
 
